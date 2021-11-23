@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @598hertan
 - 👀 I’m interested in python scripts.
 - 🌱 I’m currently learning object oriented programming.
-- 💞️ I’m looking to collaborate on pyton projects.
+- 💞️ I’m looking to collaborate on python projects.
 - 📫 How to reach me: hertanj[at]gmail[dot]com.
 
 <!---
